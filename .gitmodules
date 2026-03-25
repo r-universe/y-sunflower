@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/y-sunflower/y-sunflower.r-universe.dev
 	branch = HEAD
+[submodule "r2typ"]
+	path = r2typ
+	url = https://github.com/y-sunflower/r2typ
+[submodule "tynding"]
+	path = tynding
+	url = https://github.com/y-sunflower/tynding
