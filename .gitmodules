@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/y-sunflower/y-sunflower.r-universe.dev
 	branch = HEAD
-[submodule "ggalt"]
-	path = ggalt
-	url = https://github.com/y-sunflower/ggalt
+[submodule "ggalttext"]
+	path = ggalttext
+	url = https://github.com/y-sunflower/ggalttext
 [submodule "r2typ"]
 	path = r2typ
 	url = https://github.com/y-sunflower/r2typ
